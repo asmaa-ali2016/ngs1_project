@@ -1,0 +1,30 @@
+# gffcompare v0.10.6 | Command line was:
+#gffcompare -r ref_sup_005.gtf ref_free_005.gtf
+#
+
+#= Summary for dataset: ref_free_005.gtf 
+#     Query mRNAs :     382 in     376 loci  (247 multi-exon transcripts)
+#            (6 multi-transcript loci, ~1.0 transcripts per locus)
+# Reference mRNAs :     746 in     509 loci  (555 multi-exon)
+# Super-loci w/ reference transcripts:      323
+#-----------------| Sensitivity | Precision  |
+        Base level:    33.0     |    91.1    |
+        Exon level:    63.5     |    87.9    |
+      Intron level:    80.8     |    95.6    |
+Intron chain level:    36.8     |    82.6    |
+  Transcript level:    39.0     |    76.2    |
+       Locus level:    56.2     |    76.1    |
+
+     Matching intron chains:     204
+       Matching transcripts:     291
+              Matching loci:     286
+
+          Missed exons:     589/2631	( 22.4%)
+           Novel exons:      90/1840	(  4.9%)
+        Missed introns:     306/1731	( 17.7%)
+         Novel introns:      64/1463	(  4.4%)
+           Missed loci:     175/509	( 34.4%)
+            Novel loci:      30/376	(  8.0%)
+
+ Total union super-loci across all input datasets: 354 
+382 out of 382 consensus transcripts written in gffcmp.annotated.gtf (0 discarded as redundant)

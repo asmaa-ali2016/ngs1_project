@@ -1,0 +1,13 @@
+Status	../hisat_align/shuffled_trimmed.pe_001.sorted.bam	../hisat_align/shuffled_trimmed.pe_002.sorted.bam	../hisat_align/shuffled_trimmed.pe_003.sorted.bam	../hisat_align/shuffled_trimmed.pe_004.sorted.bam	../hisat_align/shuffled_trimmed.pe_005.sorted.bam	../bwa_align/unshuffled_trimmed.pe_001.sorted.bam	../bwa_align/unshuffled_trimmed.pe_002.sorted.bam	../bwa_align/unshuffled_trimmed.pe_003.sorted.bam	../bwa_align/unshuffled_trimmed.pe_004.sorted.bam	../bwa_align/unshuffled_trimmed.pe_005.sorted.bam
+Assigned	36363	36575	37370	37277	36659	0	0	0	0	0
+Unassigned_Unmapped	1368837	1367935	1366623	1368790	1368562	77358	77864	77765	77941	78041
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	3221	3528	3829	3376	3203	0	0	0	0	0
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	3900	3995	4075	3985	3905	1908672	1909760	1908849	1909601	1909852
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	3169	3458	3308	3299	3361	0	0	0	0	0
